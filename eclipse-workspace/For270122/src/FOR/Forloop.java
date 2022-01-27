@@ -19,10 +19,10 @@ for (int i:numbers) {
 			numbers[i]=999;
 			System.out.println("after" + numbers[i]);
 		}
-	}
+	}}}
 
 
-int[][] multiArray = {{1,2,3},{4,5,6}};
+/*int[][] multiArray = {{1,2,3},{4,5,6}};
 System.out.println(multiArray[0][2]);
 System.out.println(multiArray[1][2]);
 
@@ -55,6 +55,6 @@ for(int i=0;i<multiArray.length; i++) {
 	
 	
 	
-	}
+	}*/
 
 

@@ -1,6 +1,6 @@
 package FOR;
 
-import java.util.Arrays;
+
 
 public class task270122 {
 
